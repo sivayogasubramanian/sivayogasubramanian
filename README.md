@@ -1,6 +1,6 @@
 # Hi, I'm Siva 👋
 
-I'm a year 2 computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg/programmes/ug/cs/). Find out more about me and connect with me on [LinkedIn](https://www.linkedin.com/in/sivayogasubramanian/).
+I'm a year 2 computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg/programmes/ug/cs/). Find out more and connect with me on [LinkedIn](https://www.linkedin.com/in/sivayogasubramanian/).
 <br>
 
 ## Languages & Technologies
