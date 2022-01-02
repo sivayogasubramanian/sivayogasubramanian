@@ -37,7 +37,7 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
   </a>
   &nbsp;
   &nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="auto" height ="50" />
   </a>
   &nbsp;
