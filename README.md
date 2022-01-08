@@ -63,7 +63,7 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="auto" height ="50" />
   </a>
   &nbsp;
-  <a href="https://www.docker.com/" title="Git">
+  <a href="https://git-scm.com/" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="auto" height ="50" />
   </a>
 </p>
