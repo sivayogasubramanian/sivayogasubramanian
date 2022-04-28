@@ -53,11 +53,13 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="auto" height ="50" />
   </a>
   &nbsp;
-  &nbsp;
   <a href="https://rubyonrails.org/" title="Ruby on Rails">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="auto" height ="50" />
   </a>
   &nbsp;
+  <a href="https://firebase.google.com/" title="Firebase">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="auto" height ="50" />
+  </a>
   &nbsp;
   <a href="https://www.docker.com/" title="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="auto" height ="50" />
