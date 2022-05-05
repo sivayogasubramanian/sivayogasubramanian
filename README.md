@@ -69,5 +69,5 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
 ## GitHub Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
