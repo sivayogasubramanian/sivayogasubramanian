@@ -2,6 +2,10 @@
 
 I'm a year 2 computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg). Find out more and connect with me on [LinkedIn](https://www.linkedin.com/in/sivayogasubramanian/).
 
+[![GitHub followers](https://img.shields.io/github/followers/sivayogasubramanian?label=Follow%20Me!&style=for-the-badge&logo=github)](https://github.com/users/follow?target=sivayogasubramanian)
+[![Linkedin](https://img.shields.io/badge/-sivayogasubramanian-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivayogasubramanian/)](https://www.linkedin.com/in/sivayogasubramanian/)
+![Profile Views Counter](https://komarev.com/ghpvc/?username=sivayogasubramanian&style=for-the-badge)
+
 ## Languages
 
 <p align="center">
