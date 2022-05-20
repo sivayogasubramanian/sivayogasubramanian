@@ -1,6 +1,6 @@
 # Hi, I'm Siva 👋
 
-I'm a year 2 computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg). Find out more and connect with me on [LinkedIn](https://www.linkedin.com/in/sivayogasubramanian/).
+I'm a year 2 computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg). Find out more and connect with me!
 
 [![Linkedin](https://img.shields.io/badge/-sivayogasubramanian-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivayogasubramanian/)](https://www.linkedin.com/in/sivayogasubramanian/)
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=sivayogasubramanian&style=for-the-badge)](https://github.com/sivayogasubramanian)
