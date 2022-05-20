@@ -39,11 +39,18 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
   <a href="https://developer.apple.com/swift/" title="Swift">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="auto" height ="50" />
   </a>
+  &nbsp;
+  <a href="https://sass-lang.com/" title="Sass">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="auto" height ="50" />
+  </a>
 </p>
 
 ## Technologies
 
 <p align="center">
+  <a href="https://angular.io/" title="Angular">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="auto" height ="50" />
+  </a>
   <a href="https://reactjs.org/" title="React">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="auto" height ="50" />
   </a>
