@@ -5,7 +5,7 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
 [![Linkedin](https://img.shields.io/badge/-sivayogasubramanian-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivayogasubramanian/)](https://www.linkedin.com/in/sivayogasubramanian/)
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=sivayogasubramanian&style=for-the-badge)](https://github.com/sivayogasubramanian)
 
-## Languages
+## Languages (in no particular order)
 
 <p align="center">
   <a href="https://www.java.com/en/" title="Java">
@@ -45,7 +45,7 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
   </a>
 </p>
 
-## Technologies
+## Technologies (in no particular order)
 
 <p align="center">
   <a href="https://angular.io/" title="Angular">
