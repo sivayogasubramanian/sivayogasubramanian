@@ -85,4 +85,4 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
 
 <br />
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="250">
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
