@@ -82,3 +82,7 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="250">
