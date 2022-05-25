@@ -4,6 +4,7 @@ I'm a year 2 computer science undergraduate at [National University of Singapore
 
 [![Linkedin](https://img.shields.io/badge/-sivayogasubramanian-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivayogasubramanian/)](https://www.linkedin.com/in/sivayogasubramanian/)
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=sivayogasubramanian&style=for-the-badge)](https://github.com/sivayogasubramanian)
+[![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=black&color=ECE6FF&link=https://www.sivarn.com/)](https://www.sivarn.com/)
 
 ## Languages (in no particular order)
 
