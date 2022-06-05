@@ -2,15 +2,20 @@
 
 I'm a penultimate year computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg). Find out more and connect with me!
 
-[![Linkedin](https://img.shields.io/badge/-sivayogasubramanian-blue?style=for-the-badge&logo=Linkedin&logoColor=black&color=white&link=https://www.linkedin.com/in/sivayogasubramanian/)](https://www.linkedin.com/in/sivayogasubramanian/)
-[![Personal Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=black&color=white&link=https://www.sivarn.com/)](https://sivarn.com)
-
 <br />
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<p align="center">
+    <a href="https://www.linkedin.com/in/sivayogasubramanian/">
+        <img src="https://img.shields.io/badge/-sivayogasubramanian-blue?style=for-the-badge&logo=Linkedin&logoColor=black&color=white&link=https://www.linkedin.com/in/sivayogasubramanian/" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://sivarn.com">
+        <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=black&color=white&link=https://www.sivarn.com/" />
+    </a>
 </p>
 
 <br />
 
-<img src="./assets/waves.svg" width="100%" height="150">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
