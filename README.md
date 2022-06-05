@@ -13,4 +13,4 @@ I'm a penultimate year computer science undergraduate at [National University of
 
 <br />
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<img src="./assets/waves.svg" width="100%" height="150">
