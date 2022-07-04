@@ -16,13 +16,6 @@ I'm a penultimate year computer science undergraduate at [National University of
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&hide=stars&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&hide=stars&show_icons=true&hide_border=true" />
 </p>
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivayogasubramanian&theme=tokyonight&hide_border=true" />
-</p>
-
-<br />
