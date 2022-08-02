@@ -1,7 +1,5 @@
 # Hi, I'm Siva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-I'm a penultimate year computer science undergraduate at [National University of Singapore](https://www.comp.nus.edu.sg). Find out more and connect with me!
-
 <br />
 
 <p align="center">
