@@ -20,6 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sivayogasubramanian&count_private=true&hide=stars&show_icons=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sivayogasubramanian/sivayogasubramanian/output/github-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivayogasubramanian/sivayogasubramanian/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/sivayogasubramanian/sivayogasubramanian/output/github-snake.svg">
+</picture>
