@@ -1,20 +1,21 @@
+# https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
 name: Generate Snake Animation
 
 on:
-  # run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
-  # run on every push on the master branch
+
+  workflow_dispatch:
+
   push:
     branches:
-    - master
-    
+      - master
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
@@ -23,7 +24,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: Push SVG
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
