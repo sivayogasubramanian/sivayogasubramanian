@@ -1,0 +1,33 @@
+# https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '59 15 * * 0'
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate SVG
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+      
+      - name: Push SVG
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
